@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://babyview-project.github.io/babyview-preview/sitemap.xml
